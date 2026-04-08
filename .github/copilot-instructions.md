@@ -9,7 +9,7 @@ This repository is a minimal test/demo repository. As it evolves, this file will
 ## Development Setup
 
 ### Prerequisites
-- Git configured (author: dawid.wiecko@wp.pl)
+- Git configured
 - Standard development environment
 
 ### Environment Setup
