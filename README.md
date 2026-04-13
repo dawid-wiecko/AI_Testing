@@ -10,7 +10,7 @@
 
 | Plik | Zakres | Kluczowy cel |
 |------|--------|--------------|
-| [qa_plan_00_overview.md](qa_plan_00_overview.md) | Przegląd | Ten plik — mapa całego planu |
+| [README.md](README.md) | Przegląd | Ten plik — mapa całego planu |
 | [qa_plan_01_miesiac.md](qa_plan_01_miesiac.md) | Miesiąc 1 | SQL + pytest basics |
 | [qa_plan_02_3_miesiace.md](qa_plan_02_3_miesiace.md) | Miesiące 2–3 | Playwright Python + REST API + Docker + Portfolio #1 |
 | [qa_plan_03_pol_roku.md](qa_plan_03_pol_roku.md) | Miesiące 4–6 | TypeScript + BDD + Cel 10k netto |
