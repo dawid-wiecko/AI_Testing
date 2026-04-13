@@ -96,7 +96,7 @@ Wykonaj te kroki jak najszybciej — niezależnie od etapu nauki:
 5. **TypeScript łatwy bo znasz C#** — transfer składni: 2 tygodnie nauki TS zamiast 5–7
 6. **Jenkins już masz** — 50% ofert go wymaga, to ukryta wartość której nie masz w CV
 7. **SpecFlow POMIJAMY** — 2–5 ofert w całej Polsce; NUnit/xUnit to właściwy target
-8. **B2B opłaca się od razu**: 85 PLN/h × 168h × 0.81 (ZUS) ≈ 11 500 PLN netto vs obecne 6 500
+8. **B2B opłaca się od razu**: 85 PLN/h × 168h × 0.81 (ZUS) ≈ 11 500 PLN netto
 
 ---
 
