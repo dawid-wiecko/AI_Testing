@@ -34,6 +34,7 @@
 🕐 **BLOK 1 (45 min)** — Teoria i pierwsze zapytania
 - Materiał: [SQLZoo — SELECT basics](https://sqlzoo.net/wiki/SELECT_basics)
 - Zadanie: Przejdź wszystkie ćwiczenia w sekcji SELECT basics (8 zadań)
+- [x] Done
 
 ☕ **PRZERWA (15 min)** — wstań, odejdź od ekranu
 
@@ -42,10 +43,9 @@
 - Zadanie: Rozwiąż wszystkie ćwiczenia z sekcji SELECT, WHERE i ORDER BY (ok. 20 zadań)
 
 📝 **PODSUMOWANIE (15 min)**
-- [ ] Napisz 3 nowe rzeczy których się nauczyłeś
-- [ ] Sprawdź: czy potrafisz napisać SELECT z WHERE, ORDER BY i LIMIT bez patrzenia w materiały?
-- [ ] Checkpoint: - [ ] Potrafię napisać SELECT z WHERE, ORDER BY i LIMIT bez patrzenia w materiały
-
+- [x] Napisz 3 nowe rzeczy których się nauczyłeś
+- [x] Sprawdź: czy potrafisz napisać SELECT z WHERE, ORDER BY i LIMIT bez patrzenia w materiały?
+- [x] Checkpoint: - [ ] Potrafię napisać SELECT z WHERE, ORDER BY i LIMIT bez patrzenia w materiały
 ---
 
 ### Dzień 2 — JOINy (INNER, LEFT, RIGHT)
@@ -56,17 +56,19 @@
 🕐 **BLOK 1 (45 min)** — Teoria JOINów
 - Materiał: [SQLZoo — The JOIN operation](https://sqlzoo.net/wiki/The_JOIN_operation)
 - Zadanie: Przejdź wszystkie ćwiczenia JOIN w SQLZoo (13 zadań)
+- [x] Done
 
 ☕ **PRZERWA (15 min)** — wstań, odejdź od ekranu
 
 🕑 **BLOK 2 (45 min)** — Praktyka i własne zapytania
 - Materiał: [W3Schools JOIN exercises](https://www.w3schools.com/sql/sql_join.asp)
 - Zadanie: Rozwiąż ćwiczenia W3Schools + napisz 5 własnych zapytań JOIN łączących 3 tabele
+- [x] Done
 
 📝 **PODSUMOWANIE (15 min)**
-- [ ] Napisz 3 nowe rzeczy których się nauczyłeś
-- [ ] Sprawdź: czy potrafisz bez podpowiedzi wyjaśnić różnicę INNER/LEFT/RIGHT JOIN?
-- [ ] Checkpoint: - [ ] Rozumiem różnicę INNER/LEFT/RIGHT JOIN, potrafię złączyć 3 tabele
+- [x] Napisz 3 nowe rzeczy których się nauczyłeś
+- [x] Sprawdź: czy potrafisz bez podpowiedzi wyjaśnić różnicę INNER/LEFT/RIGHT JOIN?
+- [x] Checkpoint: - [x] Rozumiem różnicę INNER/LEFT/RIGHT JOIN, potrafię złączyć 3 tabele
 
 ---
 
